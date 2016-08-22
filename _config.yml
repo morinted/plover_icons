@@ -1,0 +1,13 @@
+# Site settings
+title: Icons for Plover
+tag_text: Plover Icons
+description: An open source icon set for Plover, with icons created from other open source icons.
+
+baseurl: "/plover_icons" # the subpath of your site, e.g. /blog
+url: "https://tedmor.in" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
